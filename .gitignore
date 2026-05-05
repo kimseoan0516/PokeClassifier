@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Dataset (too large for git)
+dataset/
+data/
+
+# Model weights (large binary files)
+results/**/*.pth
+
+# Keep result JSON and plots
+!results/**/*.json
+!results/**/*.png
+!results/**/*.txt
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
