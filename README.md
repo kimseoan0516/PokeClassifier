@@ -4,7 +4,16 @@ A Pokemon image classifier built with PyTorch and transfer learning. Upload a Po
 
 ## Demo
 
-![Demo](assets/demo_screenshot.png)
+<table>
+  <tr>
+    <td align="center"><b>Upload Screen</b></td>
+    <td align="center"><b>Classification Result</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/demo_upload.png" alt="Upload Screen"/></td>
+    <td><img src="assets/demo_result.png" alt="Result Screen"/></td>
+  </tr>
+</table>
 
 ## Dataset
 
@@ -31,14 +40,14 @@ Four experiments comparing the effect of **backbone**, **pretrained weights**, a
 
 ## Learning Curves
 
-### Loss
-![Learning Curves](results/learning_curves.png)
+<table>
+  <tr>
+    <td><img src="results/learning_curves.png" alt="Loss Curves"/></td>
+    <td><img src="results/accuracy_curves.png" alt="Accuracy Curves"/></td>
+  </tr>
+</table>
 
-### Accuracy
-![Accuracy Curves](results/accuracy_curves.png)
-
-### Experiment Comparison
-![Comparison](results/comparison.png)
+![Experiment Comparison](results/comparison.png)
 
 ## Setup
 
