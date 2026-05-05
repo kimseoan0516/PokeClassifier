@@ -4,12 +4,11 @@ PyTorch 전이 학습 기반 포켓몬 이미지 분류기입니다. 포켓몬 �
 
 ## 데모
 
-
-<img width="1919" height="890" alt="스크린샷 2026-05-05 142930" src="https://github.com/user-attachments/assets/769506eb-a507-4358-9a12-3b0d871e0df0" />
-<img width="1919" height="891" alt="스크린샷 2026-05-05 142917" src="https://github.com/user-attachments/assets/07ff0059-c043-41e6-948c-87b225df25de" />
-<img width="1919" height="903" alt="스크린샷 2026-05-05 142857" src="https://github.com/user-attachments/assets/07f84b3e-eb0f-4d91-8bd9-32ed8b1ea640" />
-<img width="1919" height="896" alt="스크린샷 2026-05-05 142830" src="https://github.com/user-attachments/assets/6f92ec1f-508d-4c6e-b3d5-81e19a0e732a" />
 <img width="1898" height="850" alt="스크린샷 2026-05-05 142606" src="https://github.com/user-attachments/assets/b1b2ecdc-9e39-4833-b8f6-880d622ec204" />
+<img width="1919" height="896" alt="스크린샷 2026-05-05 142830" src="https://github.com/user-attachments/assets/6f92ec1f-508d-4c6e-b3d5-81e19a0e732a" />
+<img width="1919" height="903" alt="스크린샷 2026-05-05 142857" src="https://github.com/user-attachments/assets/07f84b3e-eb0f-4d91-8bd9-32ed8b1ea640" />
+<img width="1919" height="891" alt="스크린샷 2026-05-05 142917" src="https://github.com/user-attachments/assets/07ff0059-c043-41e6-948c-87b225df25de" />
+<img width="1919" height="890" alt="스크린샷 2026-05-05 142930" src="https://github.com/user-attachments/assets/769506eb-a507-4358-9a12-3b0d871e0df0" />
 <img width="1919" height="897" alt="스크린샷 2026-05-05 142957" src="https://github.com/user-attachments/assets/41bfe01f-d0a1-4fc8-93d4-90e2e917e437" />
 
 ## 데이터셋
